@@ -1,0 +1,9 @@
+Run Command:
+
+mvn spring-boot:run -Drun.arguments=<local executable rest stream generator full path>
+
+Stats http:
+
+http://localhost:8080/stats
+
+
