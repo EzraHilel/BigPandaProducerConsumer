@@ -7,3 +7,10 @@ Stats http:
 http://localhost:8080/stats
 
 
+Things I would do differently or improve
+
+1. Better research the other frameworks available and analyze advantages VS disadvantages
+ in order to select appropriate framework based on knowledge
+2. Deep learning of reactive spring framework to know what is the best practice 
+3. Add comments, more unit testing and benchmark 
+ 
